@@ -1,1 +1,2 @@
 This file use to develop new future in this project
+fut 1 initial discussion over
